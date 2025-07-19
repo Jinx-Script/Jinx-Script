@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/6PEotRZJ/raw"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/k58hyfopIa/0", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jinx-Script/Jinx-Script/refs/heads/main/Egg-Predictor-V2"))()
